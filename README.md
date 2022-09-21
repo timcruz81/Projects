@@ -7,7 +7,7 @@
 # Tiago Cruz
 <sub>*Data Scientist*</sub>
 
-As a experienced Financial Analyst and Data Analyst I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years working with Big Data to SMEs real problems, I developed a critical thinking and problem-solving skills.
+As an experienced Financial Analyst and Data Analyst I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years working with Big Data to SMEs real problems, I developed a critical thinking and problem-solving skills.
 
 My credentials include a Master's in Investment and Risk Finance from the University of Westminster.
 
